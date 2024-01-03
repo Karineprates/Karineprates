@@ -30,4 +30,3 @@
 
 
 
-![snake gif](https://github.com/Karineprates/Karineprates/blob/output/github-contribution-grid-snake.svg)
