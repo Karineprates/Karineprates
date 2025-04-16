@@ -1,6 +1,6 @@
 # Olá, eu sou a Karine! 👋
 
-## 👩‍💻 Desenvolvedora Web e Estudante de Engenharia de Software
+👩‍💻 Desenvolvedora Web e Estudante de Engenharia de Software
 
 Apaixonada por criar soluções inovadoras e funcionais. Atualmente estudando na Rocketseat e expandindo meus conhecimentos em desenvolvimento web.
 
