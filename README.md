@@ -39,4 +39,4 @@ Apaixonada por criar soluções inovadoras e funcionais. Atualmente estudando na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-prates-7202a121a/) ](https://www.linkedin.com/in/karine-prates-7202a121a/) 
 [![GitHub](https://img.shields.io/github/followers/Karineprates?label=follow&style=social) ](https://github.com/Karineprates) 
 
-![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Karineprates.Karineprates) 
+
