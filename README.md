@@ -60,6 +60,4 @@ Aplicação simples e responsiva de lista de tarefas.
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Karine%20Prates-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karine-prates-7202a1219/)
-[![GitHub](https://img.shields.io/github/followers/Karineprates?label=follow&style=social)](https://github.com/Karineprates)
 
----
